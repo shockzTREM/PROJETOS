@@ -28,11 +28,9 @@
     position: absolute;
     width: 120px;
     bottom: 0;
+    animation: jump 1s infinite ease-out;
 }
 
-.mario:hover {
-    animation: jump 1.5s infinite ease-out;
-}
 
 .nuvem {
     width: 500px;
@@ -58,15 +56,15 @@
     }
 
     40% {
-        bottom: 180px;
+        bottom: 150px;
     }
 
     50% {
-        bottom: 180px;
+        bottom: 150px;
     }
 
     60% {
-        bottom: 180px;
+        bottom: 150px;
     }
 
     100% {
