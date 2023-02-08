@@ -12,12 +12,17 @@
     box-sizing: border-box;
 }
 
+.titulo {
+    margin-top: 50px;
+    text-align: center;
+}
 
-div > h1 {
+h1 {
     text-align: center;
     margin-top: 50px;
     font-family: 'mario';
     display: inline;
+    text-shadow: 1px 3px 2px black;
 }
 
 .game-board {
