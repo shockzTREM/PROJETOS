@@ -20,12 +20,12 @@
 }
 
 .game-board {
-    height: 600px;
+    height: 750px;
     border-bottom: 40px solid #017e01;
     margin: auto;
     position: relative;
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: 9px;
     background-image: linear-gradient(to bottom, #00aeff 50%, #ffffff);
 }
 
@@ -45,7 +45,7 @@
 
 .nuvem {
     width: 500px;
-    bottom: 65%;
+    bottom: 67%;
     position: absolute;
     animation: nuvem_animation 40s linear infinite;
 }
