@@ -35,8 +35,8 @@
     bottom: 0;
 }
 
-.jump {
-    animation: jump_animation 700ms infinite ease-out;
+.jump_animation {
+    animation: jump_animation 700ms ease-out;
 }
 
 .tubo {
