@@ -33,14 +33,17 @@
     position: absolute;
     width: 120px;
     bottom: 0;
-    animation: jump_animation 1s infinite ease-out;
+}
+
+.jump {
+    animation: jump_animation 700ms infinite ease-out;
 }
 
 .tubo {
     position: absolute;
     bottom: 0px;
     width: 80px;
-    animation: tubo_animation 2s linear infinite;
+    animation: tubo_animation 1.5s linear infinite;
 }
 
 .nuvem {
