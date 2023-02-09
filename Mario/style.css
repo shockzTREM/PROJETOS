@@ -21,14 +21,15 @@ h1 {
     text-align: center;
     margin-top: 50px;
     font-family: 'mario';
-    display: inline;
+    display: inline-block;
     text-shadow: 1px 3px 2px black;
 }
 
 .game-board {
     width: 80%;
     height: 600px;
-    border: 3px solid black;
+    border-bottom: 40px solid green;
+    box-shadow: 0px 0px 4px black;
     margin: 50px auto;
     position: relative;
     overflow: hidden;
