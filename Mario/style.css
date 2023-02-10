@@ -12,9 +12,13 @@
     box-sizing: border-box;
 }
 
+#backgroud {
+    background-image: url(img/textura.jpg);
+}
+
 .borda{
     width: 80%;
-    border: 4.5px solid black;
+    border: 5px solid black;
     margin: 50px auto;
     border-radius: 14px;
 }
