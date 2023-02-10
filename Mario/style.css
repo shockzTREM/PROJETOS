@@ -14,6 +14,8 @@
 
 #backgroud {
     background-image: url(img/textura.jpg);
+    background-repeat:no-repeat;
+    background-size: 200%;
 }
 
 .borda{
